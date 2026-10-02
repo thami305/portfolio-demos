@@ -1,0 +1,16 @@
+{
+  "results": [
+    {
+      "lesson": "L1",
+      "score": 3,
+      "of": 3,
+      "passed": true
+    },
+    {
+      "lesson": "L2",
+      "score": 2,
+      "of": 2,
+      "passed": true
+    }
+  ]
+}
